@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import emotion from "../../Assets/Projects/emotion.png";
-import hirex from "../../Assets/Projects/HireX.png";
-import authify from "../../Assets/Projects/Authify.png";
-import quiz from "../../Assets/Projects/Quiz.png";
-import quote from "../../Assets/Projects/Quote.png";
-import game from "../../Assets/Projects/Game.png";
+import emotion from "../../assets/Projects/emotion.png";
+import hirex from "../../assets/Projects/HireX.png";
+import authify from "../../assets/Projects/Authify.png";
+import quiz from "../../assets/Projects/Quiz.png";
+import quote from "../../assets/Projects/Quote.png";
+import game from "../../assets/Projects/Game.png";
 
 function Projects() {
   return (
